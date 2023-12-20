@@ -310,8 +310,8 @@ Iterative Optimization:
 Path planning is often an iterative process. Analyze the results of initial plans and make adjustments to optimize the manufacturing process.
 Path planning is a critical aspect of modern manufacturing that directly influences the efficiency, accuracy, and quality of the final product. Advanced software tools and algorithms play a significant role in automating and optimizing path planning processes across various manufacturing techniques.
 
-### Name:
-### Register Number:
+### Name:HASNA MUBARAK AZEEM
+### Register Number:23000568
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
